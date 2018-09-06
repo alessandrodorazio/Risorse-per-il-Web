@@ -2,7 +2,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 
 # Documenti
 - [Guida introduttiva SEO (By Google)](https://support.google.com/webmasters/answer/7451184?hl=it)
-- [Guida Seo Google (by Studiosamo)](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
+- [SEO Starter Guide](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
 - [Posizionamento nei motori di ricerca](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
 - [User Experience Design](http://userexperience.boutique/wp-content/uploads/2016/07/user-experience-design-ebook-gratuito-uxboutique.pdf)
 - [Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
