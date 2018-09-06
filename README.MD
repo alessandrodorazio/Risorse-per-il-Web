@@ -6,14 +6,15 @@
 - [User Experience Design](http://userexperience.boutique/wp-content/uploads/2016/07/user-experience-design-ebook-gratuito-uxboutique.pdf)
 - [Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
 - [Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
-- Work in progress...
 
 #Lista delle risorse
-- [Domainr](https://domainr.com/): verifica se un dominio è disponibile
-- [Google Fonts](https://fonts.google.com/): fonts utilizzabili gratuitamente
-- [PlaceIt](https://placeit.net/): mockup generator
-- [Placeholder](https://placeholder.com/): genera immagini placeholder di qualsiasi dimensione
-- Work in progress...
+- [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
+- [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
+- [Google Fonts](https://fonts.google.com/): Fonts utilizzabili gratuitamente
+- [PlaceIt](https://placeit.net/): Mockup generator
+- [Placeholder](https://placeholder.com/): Genera immagini placeholder di qualsiasi dimensione
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): Pattern utilizzabili gratuitamente
+
 
 Per qualsiasi informazione, o se volete aggiungere qualche risorsa alla lista, potete farlo inviando una mail a dev@alessandrodorazio.it
 Disclaimer: Le risorse presenti in questo file non sono state caricate da me, ma trovate in rete e disponibili gratuitametne. Tutti i diritti sono riservati agli autori dei documenti e delle risorse.
