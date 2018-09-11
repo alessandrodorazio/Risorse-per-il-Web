@@ -1,6 +1,7 @@
 Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscenze in tutto ciò che concerne lo sviluppo web
 
 # Documenti
+- [Documenti principali sul GDPR](https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/)
 - [Guida introduttiva SEO (By Google)](https://support.google.com/webmasters/answer/7451184?hl=it)
 - [SEO Starter Guide](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
 - [Posizionamento nei motori di ricerca](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
