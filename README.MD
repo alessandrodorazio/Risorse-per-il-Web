@@ -15,11 +15,13 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [PlaceIt](https://placeit.net/): Mockup generator
 - [Placeholder](https://placeholder.com/): Genera immagini placeholder di qualsiasi dimensione
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): Pattern utilizzabili gratuitamente
+- [Toggl](https://toggl.com/): Tieni traccia di quanto tempo dedichi ad ogni lavoro
 
 ## Plugin per Chrome
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl): Screenshot di una pagina Web
 - [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp): Varie statistiche SEO fornite tramite toolbar
 - [Page Analytics](https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh): Collegato a Google Analytics, fornisce dati in tempo reale riguardo numero di visitatori e interazioni
+- [RiteBoost](https://chrome.google.com/webstore/detail/riteboost/flookmlccbimcdpnbblpdjhpmjlblfgg): Strumento per migliorare il ROI di un sito Web
 - [Wappalyzer](https://www.wappalyzer.com/): Elenco di tecnologie utilizzate per realizzare un determinato sito Web
 - [Web developer](https://chrispederick.com/work/web-developer/): Aggiunge alcuni web developer tools al tuo browser
 
