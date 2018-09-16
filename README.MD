@@ -11,6 +11,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 
 # Risorse
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
+- [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
 - [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
 - [Google Fonts](https://fonts.google.com/): Fonts utilizzabili gratuitamente
 - [PlaceIt](https://placeit.net/): Mockup generator
