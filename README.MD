@@ -27,5 +27,6 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Wappalyzer](https://www.wappalyzer.com/): Elenco di tecnologie utilizzate per realizzare un determinato sito Web
 - [Web developer](https://chrispederick.com/work/web-developer/): Aggiunge alcuni web developer tools al tuo browser
 
-Per qualsiasi informazione, o se volete aggiungere qualche risorsa alla lista, potete farlo inviando una mail a dev@alessandrodorazio.it
+Per qualsiasi informazione, o se volete aggiungere qualche risorsa alla lista, potete farlo inviando una mail a dev@alessandrodorazio.it o tramite pull request
+
 Disclaimer: Le risorse presenti in questo file non sono state caricate da me, ma trovate in rete e disponibili gratuitametne. Tutti i diritti sono riservati agli autori dei documenti e delle risorse.
