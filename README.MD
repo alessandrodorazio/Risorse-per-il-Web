@@ -29,4 +29,4 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 
 Per qualsiasi informazione, o se volete aggiungere qualche risorsa alla lista, potete farlo inviando una mail a dev@alessandrodorazio.it o tramite pull request
 
-Disclaimer: Le risorse presenti in questo file non sono state caricate da me, ma trovate in rete e disponibili gratuitametne. Tutti i diritti sono riservati agli autori dei documenti e delle risorse.
+Disclaimer: Le risorse presenti in questo file non sono state caricate da me, ma trovate in rete e disponibili gratuitamente. Tutti i diritti sono riservati agli autori dei documenti e delle risorse.
