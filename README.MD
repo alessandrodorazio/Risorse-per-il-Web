@@ -10,6 +10,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
 # Risorse
+- [Cookie-Script](https://cookie-script.com/): Gestione dei cookies secondo GDPR
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
 - [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
