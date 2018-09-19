@@ -18,6 +18,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Placeholder](https://placeholder.com/): Genera immagini placeholder di qualsiasi dimensione
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): Pattern utilizzabili gratuitamente
 - [Toggl](https://toggl.com/): Tieni traccia di quanto tempo dedichi ad ogni lavoro
+- [W3C Validator](https://validator.w3.org/): Verifica se un sito Web rispetta gli standard W3C
 
 ## Plugin per Chrome
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl): Screenshot di una pagina Web
