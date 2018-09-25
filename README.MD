@@ -10,6 +10,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
 # Risorse
+- [AdminLTE3-Installer](https://github.com/alessandrodorazio/AdminLTE3-Installer): Installer per il plugin AdminLTE3 su Laravel
 - [Cookie-Script](https://cookie-script.com/): Gestione dei cookies secondo GDPR
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
