@@ -10,8 +10,6 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
 # Risorse
-- [AdminLTE3-Installer](https://github.com/alessandrodorazio/AdminLTE3-Installer): Installer per il plugin AdminLTE3 su Laravel
-- [Cookie-Script](https://cookie-script.com/): Gestione dei cookies secondo GDPR
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
 - [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
@@ -21,6 +19,11 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): Pattern utilizzabili gratuitamente
 - [Toggl](https://toggl.com/): Tieni traccia di quanto tempo dedichi ad ogni lavoro
 - [W3C Validator](https://validator.w3.org/): Verifica se un sito Web rispetta gli standard W3C
+
+# Scripts
+- [AdminLTE3-Installer](https://github.com/alessandrodorazio/AdminLTE3-Installer): Installer per il plugin AdminLTE3 su Laravel
+- [Cookie-Script](https://cookie-script.com/): Gestione dei cookies secondo GDPR
+- [Dati da codice fiscale](https://github.com/alessandrodorazio/Dati-da-codice-fiscale): Estrazione dati dal codice fiscale tramite Javascript
 
 ## Plugin per Chrome
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl): Screenshot di una pagina Web
