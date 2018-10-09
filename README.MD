@@ -1,6 +1,7 @@
 Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscenze in tutto ciò che concerne lo sviluppo web
 
 # Documenti
+- [Articoli Laravel](http://laravel-italia.it/articoli)
 - [Documenti principali sul GDPR](https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/)
 - [Guida introduttiva SEO (By Google)](https://support.google.com/webmasters/answer/7451184?hl=it)
 - [Introduzione JSON](http://elite.polito.it/files/courses/02CIX/2013/03-JSON.pdf)
