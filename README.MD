@@ -7,7 +7,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Introduzione JSON](http://elite.polito.it/files/courses/02CIX/2013/03-JSON.pdf)
 - [SEO Starter Guide](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
 - [Posizionamento nei motori di ricerca](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
-- [UI/UX Design](https://www.researchgate.net/publication/317660257_User_Interface_and_User_Experience_UIUX_Design)
+- [UI/UX Design - ENG](https://www.researchgate.net/publication/317660257_User_Interface_and_User_Experience_UIUX_Design)
 - [User Experience Design](http://userexperience.boutique/wp-content/uploads/2016/07/user-experience-design-ebook-gratuito-uxboutique.pdf)
 - [Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
 - [Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
