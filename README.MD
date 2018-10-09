@@ -1,16 +1,16 @@
 Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscenze in tutto ciò che concerne lo sviluppo web
 
 # Documenti
-- [Articoli Laravel](http://laravel-italia.it/articoli)
-- [Documenti principali sul GDPR](https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/)
-- [Guida introduttiva SEO (By Google)](https://support.google.com/webmasters/answer/7451184?hl=it)
-- [Introduzione JSON](http://elite.polito.it/files/courses/02CIX/2013/03-JSON.pdf)
-- [SEO Starter Guide](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
-- [Posizionamento nei motori di ricerca](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
-- [UI/UX Design - ENG](https://www.researchgate.net/publication/317660257_User_Interface_and_User_Experience_UIUX_Design)
-- [User Experience Design](http://userexperience.boutique/wp-content/uploads/2016/07/user-experience-design-ebook-gratuito-uxboutique.pdf)
-- [Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
-- [Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
+- [Articoli Laravel :it:](http://laravel-italia.it/articoli)
+- [Documenti principali sul GDPR :it:](https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/)
+- [Guida introduttiva SEO (By Google) :it:](https://support.google.com/webmasters/answer/7451184?hl=it)
+- [Introduzione JSON :it:](http://elite.polito.it/files/courses/02CIX/2013/03-JSON.pdf)
+- [SEO Starter Guide :it:](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
+- [Posizionamento nei motori di ricerca :it:](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
+- [UI/UX Design :uk:](https://www.researchgate.net/publication/317660257_User_Interface_and_User_Experience_UIUX_Design)
+- [User Experience Design :it:](http://userexperience.boutique/wp-content/uploads/2016/07/user-experience-design-ebook-gratuito-uxboutique.pdf)
+- [Teoria dei colori :it:](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
+- [Testi persuasivi :it:](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
 # Risorse
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
