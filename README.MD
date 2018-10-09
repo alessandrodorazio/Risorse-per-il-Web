@@ -16,6 +16,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
 - [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
+- [Github markdown](https://gist.github.com/rxaviers/7360908): Emoji per i tuoi readme!
 - [Google Fonts](https://fonts.google.com/): Fonts utilizzabili gratuitamente
 - [PlaceIt](https://placeit.net/): Mockup generator
 - [Placeholder](https://placeholder.com/): Genera immagini placeholder di qualsiasi dimensione
