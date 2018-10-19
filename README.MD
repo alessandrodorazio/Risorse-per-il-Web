@@ -5,6 +5,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [:it: Documenti principali sul GDPR](https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/)
 - [:it: Guida introduttiva SEO (By Google)](https://support.google.com/webmasters/answer/7451184?hl=it)
 - [:it: Introduzione JSON](http://elite.polito.it/files/courses/02CIX/2013/03-JSON.pdf)
+- [:uk: Material Design](https://material.io/design/)
 - [:it: SEO Starter Guide](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
 - [:it: Posizionamento nei motori di ricerca](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
 - [:uk: UI/UX Design](https://www.researchgate.net/publication/317660257_User_Interface_and_User_Experience_UIUX_Design)
