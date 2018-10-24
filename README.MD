@@ -21,6 +21,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Google Fonts](https://fonts.google.com/): Fonts utilizzabili gratuitamente
 - [PlaceIt](https://placeit.net/): Mockup generator
 - [Placeholder](https://placeholder.com/): Genera immagini placeholder di qualsiasi dimensione
+- [Sample Text](http://www.sample-txt.com/): Verifica se ogni testo sia visualizzabile correttamente sul tuo sito web
 - [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/): Pattern utilizzabili gratuitamente
 - [Toggl](https://toggl.com/): Tieni traccia di quanto tempo dedichi ad ogni lavoro
 - [W3C Validator](https://validator.w3.org/): Verifica se un sito Web rispetta gli standard W3C
