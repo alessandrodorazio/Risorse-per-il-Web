@@ -1,6 +1,7 @@
-Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscenze in tutto ciò che concerne lo sviluppo web
+# Risorse per il web
+Raccolta di documenti e risorse utili ad ampliare le proprie conoscenze in tutto ciò che concerne lo sviluppo web
 
-# Documenti
+## Documenti
 - [:it: Articoli Laravel](http://laravel-italia.it/articoli)
 - [:it: Documenti principali sul GDPR](https://www.agendadigitale.eu/cittadinanza-digitale/gdpr-tutto-cio-che-ce-da-sapere-per-essere-preparati/)
 - [:it: Guida introduttiva SEO (By Google)](https://support.google.com/webmasters/answer/7451184?hl=it)
@@ -13,7 +14,7 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [:it: Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
 - [:it: Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
-# Risorse
+## Risorse
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
 - [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
@@ -26,12 +27,12 @@ Questo elenco contiene documenti e risorse utili ad ampliare le proprie conoscen
 - [Toggl](https://toggl.com/): Tieni traccia di quanto tempo dedichi ad ogni lavoro
 - [W3C Validator](https://validator.w3.org/): Verifica se un sito Web rispetta gli standard W3C
 
-# Scripts
+## Scripts
 - [AdminLTE3-Installer](https://github.com/alessandrodorazio/AdminLTE3-Installer): Installer per il plugin AdminLTE3 su Laravel
 - [Cookie-Script](https://cookie-script.com/): Gestione dei cookies secondo GDPR
 - [Dati da codice fiscale](https://github.com/alessandrodorazio/Dati-da-codice-fiscale): Estrazione dati dal codice fiscale tramite Javascript
 
-## Plugin per Chrome
+### Plugin per Chrome
 - [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl): Screenshot di una pagina Web
 - [MozBar](https://chrome.google.com/webstore/detail/mozbar/eakacpaijcpapndcfffdgphdiccmpknp): Varie statistiche SEO fornite tramite toolbar
 - [Page Analytics](https://chrome.google.com/webstore/detail/page-analytics-by-google/fnbdnhhicmebfgdgglcdacdapkcihcoh): Collegato a Google Analytics, fornisce dati in tempo reale riguardo numero di visitatori e interazioni
