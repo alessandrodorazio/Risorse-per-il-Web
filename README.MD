@@ -9,6 +9,7 @@ Raccolta di documenti e risorse utili ad ampliare le proprie conoscenze in tutto
 - [:uk: Material Design](https://material.io/design/)
 - [:it: SEO Starter Guide](https://www.studiosamo.it/wp-content/uploads/2016/05/Guida-SEO-Google.pdf)
 - [:it: Posizionamento nei motori di ricerca](https://www.prima-posizione.it/download/guida-posizionamento-motori-ricerca.pdf)
+- [:uk: Roadmap per sviluppatori](https://github.com/kamranahmedse/developer-roadmap)
 - [:uk: UI/UX Design](https://www.researchgate.net/publication/317660257_User_Interface_and_User_Experience_UIUX_Design)
 - [:it: User Experience Design](http://userexperience.boutique/wp-content/uploads/2016/07/user-experience-design-ebook-gratuito-uxboutique.pdf)
 - [:it: Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
