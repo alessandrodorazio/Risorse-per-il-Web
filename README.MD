@@ -15,6 +15,9 @@ Raccolta di documenti e risorse utili ad ampliare le proprie conoscenze in tutto
 - [:it: Teoria dei colori](https://www.politesi.polimi.it/bitstream/10589/18321/1/2011_03_Rossin.pdf)
 - [:it: Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
+## AWS Cognit
+- [:uk: Connettere Node.JS a Cognto](https://medium.com/@prasadjay/amazon-cognito-user-pools-in-nodejs-as-fast-as-possible-22d586c5c8ec)
+
 ## Risorse
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
