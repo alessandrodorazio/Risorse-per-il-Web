@@ -23,7 +23,7 @@ Raccolta di documenti e risorse utili ad ampliare le proprie conoscenze in tutto
 - [:uk: React+Redux - S. Grider](https://www.udemy.com/course/react-redux/)
 - [:uk: NodeJS - M. Schwarzmüller](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
-## Risorse
+## Strumenti utili
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
 - [FontAwesome](https://fontawesome.com): Icone implementabili tramite CSS
 - [Freepik](https://www.freepik.com/): Vettori, foto e psd utilizzabili gratuitamente
