@@ -16,10 +16,12 @@ Raccolta di documenti e risorse utili ad ampliare le proprie conoscenze in tutto
 - [:it: Testi persuasivi](https://www.armandogiorgi.it/wp-content/uploads/2015/07/testi-persuasivi-swipe-files-pronesis.pdf)
 
 ## AWS Cognito
-- [:uk: Connettere Node.JS a Cognto](https://medium.com/@prasadjay/amazon-cognito-user-pools-in-nodejs-as-fast-as-possible-22d586c5c8ec)
+- [:uk: Connettere Node.JS a Cognito](https://medium.com/@prasadjay/amazon-cognito-user-pools-in-nodejs-as-fast-as-possible-22d586c5c8ec)
 
 ## Corsi Consigliati
-- [:uk NodeJS - Schwarzmüller](https://www.udemy.com/course/nodejs-the-complete-guide/)
+- [:uk: Advanced Javascript Concepts - A. Neagoie](https://www.udemy.com/course/advanced-javascript-concepts/)
+- [:uk: React+Redux - S. Grider](https://www.udemy.com/course/react-redux/)
+- [:uk: NodeJS - M. Schwarzmüller](https://www.udemy.com/course/nodejs-the-complete-guide/)
 
 ## Risorse
 - [Domainr](https://domainr.com/): Verifica se un dominio è disponibile
